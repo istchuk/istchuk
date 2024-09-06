@@ -1,16 +1,18 @@
-## Hi there 👋
+# Olá! Eu sou o Gabriel 👋
 
-<!--
-**istchuk/istchuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Estudante** da [UTFPR - Campo Mourão](https://www.cm.utfpr.edu.br/)
+- Cursando segundo período do **Técnico Integrado em Informática para a Internet**.
 
-Here are some ideas to get you started:
+💻 **Linguagens e Tecnologias** que já utilizei:
+- ![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python)
+- ![HTML](https://img.shields.io/badge/-HTML-orange?style=flat&logo=html5)
+- ![CSS](https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3)
+- ![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat&logo=mysql)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 **Atualmente estudando**:
+- Desenvolvimento web com foco em HTML, CSS e JavaScript.
+- Bancos de dados com MySQL.
+
+
+📫 **Contato**:
+- [Instagram](https://www.instagram.com/gabrielistchuk?igsh=MWpwb3h4ZGlsam5qYg==)
